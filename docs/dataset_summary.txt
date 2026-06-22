@@ -1,0 +1,13 @@
+Dataset Name:
+Invoice Dataset
+
+Total Documents:
+10
+
+Document Types:
+5 PDF Invoices
+3 JPG Invoices
+2 PNG Invoices
+
+Purpose:
+Used for OCR extraction and information extraction testing.
